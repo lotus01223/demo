@@ -8,7 +8,7 @@ public class demo {
 		
 		
 		
-		System.out.println("sua lan 1");
+		System.out.println("sua lan 2");
 		System.out.println("Hello");
 	}
 
